@@ -1,0 +1,78 @@
+.cargoInfo {
+  display: flex;
+  padding: 10px;
+  flex-direction: column;
+  width: 75%;
+  margin: 0 auto; }
+
+.mainContent-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: left; }
+
+.addInfo-content {
+  display: flex;
+  justify-content: space-between; }
+
+.makeStyles-container-224, .makeStyles-container-400 {
+  width: 100% !important; }
+
+.firstLine {
+  position: relative;
+  width: 100%; }
+
+.contactInfo {
+  border-bottom: 1px solid black;
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+  width: 80%;
+  margin: 0 auto; }
+
+.addInfo {
+  border-bottom: 1px solid rgba(128, 128, 128, 0.575); }
+
+.addInfo-content {
+  justify-content: space-between;
+  align-items: center; }
+
+.addInfo div {
+  margin-left: 30px; }
+
+.sender, .receiver {
+  width: 44%;
+  margin: 10px; }
+
+.formControl {
+  width: 100%; }
+
+.main {
+  display: flex; }
+
+.main-completed {
+  margin: 0 auto;
+  width: 300px;
+  text-align: center; }
+
+.makeStyles-root-4 {
+  width: 100% !important; }
+
+.list {
+  list-style-type: none;
+  padding: 0; }
+
+.list li {
+  padding: 3px; }
+
+.title, .header {
+  text-align: center;
+  color: #4d4d4d; }
+
+.stepperButtons {
+  margin: 50px auto;
+  display: flex;
+  justify-content: center; }
+
+.MuiStepIcon-active, .MuiStepIcon-completed {
+  color: #4f0103 !important; }
